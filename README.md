@@ -1,7 +1,7 @@
 # Rick-and-Morty-Automation-Assignment
 **Project video is attached**:
 
-https://github.com/roinergaon/UI_Automation/assets/50953734/a8baf17d-5b0c-4166-bd4e-66e719eea1bf
+
 ## 📑 Technologies & Skill & Features
 | Technologies      | Description |
 | ----------- | ----------- |

@@ -1,8 +1,10 @@
 # Rick-and-Morty-Automation-Assignment
-**Project video is attached**:
+**video is attached**:
 
+https://github.com/user-attachments/assets/f3817de8-c2c6-40a2-a9c6-a2c366a77a7f
 
-## 📑 Technologies & Skill & Features
+## 📑 Technologies & Skill & Fe
+atures
 | Technologies      | Description |
 | ----------- | ----------- |
 | **Python:**      | The project is developed using Python. |
@@ -15,6 +17,8 @@
 This repository contains a comprehensive automated testing built with python.
 
 ## 📊 Reports
+![second test](https://github.com/user-attachments/assets/e736a7f9-ae13-472e-8411-d1a157995a6c)
+![first test](https://github.com/user-attachments/assets/b0192ade-914c-4da5-816b-95b58b6cacd4)
 
 
 ## 📁 Project Structure

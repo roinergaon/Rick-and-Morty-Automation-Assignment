@@ -3,8 +3,6 @@
 
 https://github.com/user-attachments/assets/f3817de8-c2c6-40a2-a9c6-a2c366a77a7f
 
-## 📑 Technologies & Skill & Fe
-atures
 | Technologies      | Description |
 | ----------- | ----------- |
 | **Python:**      | The project is developed using Python. |

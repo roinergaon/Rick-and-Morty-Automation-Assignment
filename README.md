@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/f3817de8-c2c6-40a2-a9c6-a2c366a77a7f
 | **Selenium WebDriver:**   | The project includes Selenium WebDriver.      |
 | **Page Object Model (POM):**   | The project follows the POM design pattern.        |
 | **Allure Reports:**   | Test results are documented using Allure Reports.        |
+| **requests library:**   | API calls are made using the requests library.        |
 
 ## 📖 Overview
 This repository contains a comprehensive automated testing built with python.
